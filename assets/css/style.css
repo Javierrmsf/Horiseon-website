@@ -24,7 +24,7 @@ header h1 .seo { /* Changed header from a class to an element*/
     color: #d9dcd6;
 }
 
-header div { /* Changed header from a class to an element*/
+header div  { /* Changed header from a class to an element*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,7 +36,7 @@ header div ul {/* Changed header from a class to an element*/
     list-style-type: none;
 }
 
-header div ul li {/* Changed header from a class to an element*/
+header div ul li  {/* Changed header from a class to an element*/
     display: inline-block;
     margin-left: 25px;
 }
@@ -75,7 +75,7 @@ main { /* replaced a class named content with a main element*/
     margin-left: 20px;
 }
 
-aside { /*replaced the benefits class with an aside element*/
+aside { /*replaced the benefits class with an aside*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
