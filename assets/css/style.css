@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-main { /* replaced a class named content with a main element*/
+.content { 
     width: 75%;
     display: inline-block;
     margin-left: 20px;
