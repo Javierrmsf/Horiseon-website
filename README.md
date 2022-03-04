@@ -1,7 +1,7 @@
 # Horiseon-website
 Horiseon's website
 
-Description: This is repo for Horiseon's webiste 
+Description: This is a repo for Horiseon's webiste 
 
 
 ![Here's a screenshot of the website](./assets/images/SCREENSHOT.png)
